@@ -1,4 +1,4 @@
-import React, { Component, useReducer } from 'react';
+import React, { Component } from 'react';
 
 import Aux from '../../hoc/Auxiliary';
 import Burger from '../../components/Burger/Burger';
